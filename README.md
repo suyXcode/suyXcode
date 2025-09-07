@@ -1,6 +1,6 @@
 ## About Me👋
 
-<h1 align="center">Hi 👋, I'm Suyash Singh a.k.a Code PIrates.</h1>
+<h1 align="center">Hi 👋, I'm Suyash Singh a.k.a Code Pirates.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyxcode&label=Profile%20views&color=0e75b6&style=flat" alt="suyxcode" /> </p>
 
