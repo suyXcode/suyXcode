@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyxcode" alt="suyxcode" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thesuyashrajput" target="blank"><img src="https://img.shields.io/twitter/follow/thesuyashrajput?logo=twitter&style=for-the-badge" alt="thesuyashrajput" /></a> </p>
 
 - 🔭 I’m currently working on [protfolio.](https://suyxcode.netlify.app/)
 
