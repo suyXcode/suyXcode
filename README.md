@@ -29,9 +29,9 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📢 Latest Blog Posts
 - [My First Medium Post](https://medium.com/@suyxcode/ultimate-guide-to-swapping-two-numbers-in-python-performance-comparison-and-best-practices-7589672961e8)
-- [Another Blog Title](https://medium.com/@suyxcode/the-frontend-structure-using-html-introduction-part-1fb9750f52e1)
-- [Third Post Title](https://medium.com/@suyxcode/keywords-variables-identifiers-7c706b8b00f2)
-- [Fourth Post Title](https://medium.com/@suyxcode/multi-valued-data-types-part-1-79025b12af28)
+- [Introduction Of HTML](https://medium.com/@suyxcode/the-frontend-structure-using-html-introduction-part-1fb9750f52e1)
+- [Keywords in Python](https://medium.com/@suyxcode/keywords-variables-identifiers-7c706b8b00f2)
+- [Data Types in Python](https://medium.com/@suyxcode/multi-valued-data-types-part-1-79025b12af28)
 
 <!-- BLOG-POST-LIST:END -->
 
