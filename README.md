@@ -35,16 +35,16 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<h2 >💻 LeetCode Profile</h2>
-<p >
-  <a href="https://leetcode.com/suyxcode/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-</p>
+
 
 <h2 >📊 LeetCode Stats</h2>
 <p >
   <img src="https://leetcard.jacoblin.cool/suyxcode?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+<h2 >📊 LeetCode Stats</h2>
+<p >
+  <img src="https://codechefcard.jacoblin.cool/suyxcode_1?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
