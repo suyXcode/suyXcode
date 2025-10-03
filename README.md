@@ -35,6 +35,18 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+<h2 >💻 LeetCode Profile</h2>
+<p >
+  <a href="https://leetcode.com/suyxcode/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
+
+<h2 >📊 LeetCode Stats</h2>
+<p >
+  <img src="https://leetcard.jacoblin.cool/suyxcode?theme=dark&font=Karma&ext=contest"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/syaxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/syaxcode" height="30" width="40" /></a>
