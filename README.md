@@ -42,10 +42,7 @@
   <img src="https://leetcard.jacoblin.cool/suyxcode?theme=dark&font=Karma&ext=contest"/>
 </p>
 
-<h2>🥇 CodeChef Stats</h2>
-<p>
-  <img src="https://codechefcard.jacoblin.cool/suyxcode_1?theme=dark&font=Karma&ext=contest"/>
-</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
