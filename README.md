@@ -33,8 +33,7 @@
 
 - ⚡ Fun fact **I think I am boring.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+
 ### 📢 Latest Blog Posts
 - [My First Medium Post](https://medium.com/@suyxcode/ultimate-guide-to-swapping-two-numbers-in-python-performance-comparison-and-best-practices-7589672961e8)
 - [Introduction Of HTML](https://medium.com/@suyxcode/the-frontend-structure-using-html-introduction-part-1fb9750f52e1)
