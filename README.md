@@ -74,7 +74,8 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://github.com/suyXcode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/suyXcode" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://github.com/suyXcode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/suyXcode" /></a></p>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyxcode&layout=compact&theme=radical" />
   <br/>
