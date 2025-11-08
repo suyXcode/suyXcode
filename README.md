@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suyash Singh a.k.a Code PIrates.</h1>
+<h1 align="center">Hi 👋, I'm Suyash Singh a.k.a Code Pirates.</h1>
 <h3 align="center">A passionate Data Analyst Frontend Developer from India.</h3>
 
 
