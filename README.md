@@ -20,9 +20,9 @@ Working on exciting ML + Web projects. Ask me about DS/ML!
 ---
 
 ### 📅 Daily note (IST)
-**2025-12-04 00:47:17 IST**
+**2025-12-04 01:05:37 IST**
 
-> _"Keep learning — the moment you stop is the moment you fall behind."_
+> _"Strive for progress, not perfection."_
 
 ---
 
