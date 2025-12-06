@@ -3,7 +3,7 @@ name: Daily Profile README Update
 # Run daily at 00:30 UTC (06:00 IST) and allow manual runs
 on:
   schedule:
-    - cron: "10 01 * * *"
+    - cron: "30 19 * * *"
 
   workflow_dispatch:
 
