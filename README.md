@@ -20,9 +20,9 @@ Working on exciting ML + Web projects. Ask me about DS/ML!
 ---
 
 ### 📅 Daily note (IST)
-**2025-12-09 01:04:35 IST**
+**2025-12-10 01:01:45 IST**
 
-> _"Strive for progress, not perfection."_
+> _"Make it work, make it right, make it fast."_
 
 ---
 
