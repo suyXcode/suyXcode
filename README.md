@@ -14,15 +14,15 @@ Working on exciting ML + Web projects. Ask me about DS/ML!
 ### 📊 GitHub stats
 - Public repos: **34**
 - Followers: **14**
-- Following: **37**
+- Following: **40**
 - Profile: [suyXcode](https://github.com/suyXcode)
 
 ---
 
 ### 📅 Daily note (IST)
-**2025-12-10 01:01:45 IST**
+**2025-12-11 01:05:30 IST**
 
-> _"Make it work, make it right, make it fast."_
+> _"Keep learning — the moment you stop is the moment you fall behind."_
 
 ---
 
