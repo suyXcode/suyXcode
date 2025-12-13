@@ -9,7 +9,8 @@
 - 📝 I regularly write articles on [https://medium.com/@suyxcode](https://medium.com/@suyxcode)<br><br>
 - 💬 Ask me about **Python and frontend (HTML, CSS, Bootstrap).**<br><br>
 - 📫 How to reach me **suyxcode@gmail.com**<br><br>
-- 📄 Know about my experiences [https://suyxcode.netlify.app/doc/Resume.pdf](https://suyxcode.netlify.app/doc/Resume.pdf)<br><br>- ⚡ Fun fact: **I think I am boring.**
+- 📄 Know about my experiences [https://suyxcode.netlify.app/doc/Resume.pdf](https://suyxcode.netlify.app/doc/Resume.pdf)<br><br>
+- ⚡ Fun fact: **I think I am boring.**
 
 
 ## 🌐 Socials:
