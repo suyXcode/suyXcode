@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python and frontend (HTML, CSS, Bootstrap).**<br><br>
 - 📫 How to reach me **suyxcode@gmail.com**<br><br>
 - 📄 Know about my experiences [https://suyxcode.netlify.app/doc/Resume.pdf](https://suyxcode.netlify.app/doc/Resume.pdf)<br><br>
-- ⚡ Fun fact: **I think learning never stops in tech, only upgrades.*
+- ⚡ Fun fact: *I think learning never stops in tech, only upgrades.*
 
 
 ## 🌐 Socials:
