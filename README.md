@@ -53,6 +53,11 @@
 [![](https://visitcount.itsvg.in/api?id=suyXcode&icon=7&color=5)](https://visitcount.itsvg.in)
 
 
+
+## Snake Game :
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
   ## 💰 You can help me by Donating
   ---
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suyxcode) 
