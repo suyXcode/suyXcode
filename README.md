@@ -5,7 +5,7 @@
 l
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Python , Libraries , SQL , EXCEL , PowerBI**<br><br>
+- 🌱 I’m currently learning **Python , Libraries , SQL , EXCEL , PowerBI.**<br><br>
 - 👯 I’m looking to collaborate on **some ML and web dev projects.**<br><br>
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/suyxcode/](https://www.linkedin.com/in/suyxcode/)<br><br>
 - 📝 I regularly write articles on [https://medium.com/@suyxcode](https://medium.com/@suyxcode)<br><br>
