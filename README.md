@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Data Analyst & Frontend Developer from India.</h3>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyXcode" alt="Suyash Singh" /></a> </p> -->
 
-
 ![](https://github-profile-trophy.vercel.app/?username=suyXcode)
 # 💫 About Me:
 
