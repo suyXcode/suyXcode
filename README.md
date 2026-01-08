@@ -5,7 +5,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=suyXcode)
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Movie Recommendation System](https://mrssuyxcode.streamlit.app
+- 🔭 I’m currently working on [Movie Recommendation System](https://mrssuyxcode.streamlit.app)
 
 - 🌱 I’m currently learning **Python , Libraries , SQL , EXCEL , PowerBI.**<br><br>
 - 👯 I’m looking to collaborate on **some ML and web dev projects.**<br><br>
