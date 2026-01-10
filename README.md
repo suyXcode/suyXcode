@@ -48,9 +48,11 @@
 
 ## 📊 GitHub Stats:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suyXcode&theme=blood-dark)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=suyXcode&theme=rose&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyXcode&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=suyXcode&theme=rose&hide_border=true)
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=suyXcode&theme=rose&hide_border=true)-->
 ![](https://github-contributor-stats.vercel.app/api?username=suyXcode&limit=5&theme=rose&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=suyXcode&icon=7&color=5)](https://visitcount.itsvg.in)
 
