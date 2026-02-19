@@ -5,7 +5,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=suyXcode)
 
 
-# 🚀 My GitHub Space Shooter Game
+ **🚀 My GitHub Space Shooter Game**
 
 <p align="center">
   <img src="https://github.com/suyXcode/space-shooter/blob/main/assets/space-shooter.gif">
