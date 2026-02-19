@@ -8,7 +8,7 @@
  **🚀 My GitHub Space Shooter Game**
 
 <p align="center">
-  <img src="https://github.com/suyXcode/space-shooter/blob/main/assets/space-shooter.gif">
+  <img src="./assets/space-shooter.gif">
 </p>
 
 # 💫 About Me:
@@ -65,10 +65,6 @@
 [![](https://visitcount.itsvg.in/api?id=suyXcode&icon=7&color=5)](https://visitcount.itsvg.in)
 
 
-
-## Snake Game :
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
   ## 💰 You can help me by Donating
   
