@@ -3,6 +3,14 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyXcode" alt="Suyash Singh" /></a> </p> -->
 
 ![](https://github-profile-trophy.vercel.app/?username=suyXcode)
+
+
+# 🚀 My GitHub Space Shooter Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif">
+</p>
+
 # 💫 About Me:
 
 - 🔭 I’m currently working on [Movie Recommendation System](https://mrssuyxcode.streamlit.app).
