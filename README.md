@@ -25,7 +25,6 @@
 - ⚡ Fun fact: *I think learning never stops in tech, only upgrades.*
 
 
-
 ## 🌐 Socials:
 
 <p align="left">
