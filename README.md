@@ -6,7 +6,7 @@
 
 ![](githubgif.gif)
 
- **🚀 My GitHub Space Shooter Game**
+## 🚀 My GitHub Space Shooter Game
 
 <p align="center">
   <img src="./assets/space-shooter.gif">
