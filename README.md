@@ -6,8 +6,6 @@
 
 ![](githubgif.gif)
 
-
-
 # 💫 About Me:
 
 - 🔭 I’m currently working on [Plant Diseases Detection System](#).
