@@ -52,7 +52,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=suyXcode&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/username=suyXcode&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/username=suyXcode&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://streak-stats.demolab.com/?user=suyXcode&theme=calm_pink&hide_border=false)<br/>
 
 
