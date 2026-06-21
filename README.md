@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst & Frontend Developer from India.</h3>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyXcode" alt="Suyash Singh" /></a> </p> -->
 
-[![](https://komarev.com/ghpvc/?username=suyXcode&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=suyXcode&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ![](https://github-profile-trophy.vercel.app/?username=suyXcode)
 
@@ -55,8 +55,6 @@
 ![](https://streak-stats.demolab.com/?user=suyXcode&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=suyXcode&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=suyXcode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
